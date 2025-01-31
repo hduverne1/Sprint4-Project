@@ -1,3 +1,21 @@
+# Car Advertisement Dashboard
+
+## Project Description
+This project is a web application dashboard that provides visualizations and analysis of car advertisement data. It is built using Streamlit, Pandas, and Plotly Express.
+
+## Running the App Locally
+1. Clone the repository:
+git clone https://github.com/your-username/your-repo-name.git
+2. Navigate to the project directory:
+cd your-repo-name
+3. Install the required packages:
+pip install -r requirements.txt
+4. Run the app:
+streamlit run app.py
+
+## Live Application
+You can view the live application here: [Car Advertisement Dashboard](https://<APP_NAME>.onrender.com/)
+
 # Car Sales Dashboard
 
 This project is a web application dashboard for visualizing car sales data. It is built using Streamlit, Pandas, and Plotly Express. The dashboard provides interactive visualizations to explore the dataset and gain insights into car sales trends.
