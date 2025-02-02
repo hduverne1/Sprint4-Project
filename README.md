@@ -7,7 +7,7 @@ This project is a web application dashboard that provides visualizations and ana
 1. Clone the repository:
 git clone https://github.com/hduverne1/Sprint4-Project.git
 2. Navigate to the project directory:
-cd your-repo-name
+cd Sprint4-Project
 3. Install the required packages:
 pip install -r requirements.txt
 4. Run the app:
@@ -37,10 +37,11 @@ This project is a web application dashboard for visualizing car sales data. It i
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/hduverne1/Sprint4-Project.git
-   cd your-repo-name
+   cd Sprint4-Project
+   
 Set Up a Virtual Environment:
 
-python -m venv myenv
+python -m venv newenv
 source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
 Install Dependencies:
 
@@ -75,12 +76,15 @@ git add .
 Commit Your Changes:
 
 Commit your changes with a meaningful message:
+
 git commit -m "Add Streamlit dashboard with EDA visualizations"
+
 Push to GitHub:
 
 Push your changes to your GitHub repository:
 
 git push origin main
+
 Replace main with the name of your branch if you're using a different branch.
 
 Verify on GitHub
@@ -96,5 +100,3 @@ Requirements File: Ensure you have a requirements.txt file listing all the Pytho
 
 pip freeze > requirements.txt
 Continuous Testing: As you develop your application, continue testing locally with streamlit run app.py to ensure everything functions correctly before pushing changes.
-
-Iterate and Improve: Use feedback from your project reviewer to make improvements. It's common to go through several iterations, so don't hesitate to refine your application based on feedback.
