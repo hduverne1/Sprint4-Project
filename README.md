@@ -5,7 +5,7 @@ This project is a web application dashboard that provides visualizations and ana
 
 ## Running the App Locally
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/hduverne1/Sprint4-Project.git
 2. Navigate to the project directory:
 cd your-repo-name
 3. Install the required packages:
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live Application
-You can view the live application here: [Car Advertisement Dashboard](https://<APP_NAME>.onrender.com/)
+You can view the live application here: [US Vehicle Advertisement Listings](https://sprint4-project-ys66.onrender.com)
 
 # Car Sales Dashboard
 
@@ -36,7 +36,7 @@ This project is a web application dashboard for visualizing car sales data. It i
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/hduverne1/Sprint4-Project.git
    cd your-repo-name
 Set Up a Virtual Environment:
 
